@@ -1,5 +1,3 @@
-# Grid
- Layout com grid
 # Estudo de diferentes layout com Grid
 
 Um projeto bem simples onde pude aprendo 3 formas de layout com o grid. Foi um projeto bem simples, onde não foi levado muito a sério a questão visual mais sim a parte técnica. 
